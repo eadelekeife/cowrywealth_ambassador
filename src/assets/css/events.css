@@ -1,0 +1,19 @@
+/* events but for admin */
+
+.category_display h5 {
+    font-size: 15px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+.category_display p {
+    font-size: 13px;
+    line-height: 1.5;
+    margin-bottom: 5px;
+}
+
+.category_display button.bg_border_red, .category_display a.bg_border_red {
+    padding: 3px 15px;
+    font-size: 12px;
+    margin-bottom: 30px;
+}
